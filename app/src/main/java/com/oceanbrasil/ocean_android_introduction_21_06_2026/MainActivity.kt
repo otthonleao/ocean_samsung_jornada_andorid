@@ -33,10 +33,10 @@ class MainActivity : AppCompatActivity() {
         }
         //Mudar de tela
         btNovaTela.setOnClickListener {
-            val novaTelaIntent = Intent(this, SecondActivity::class.java)
+            val newScreenIntent = Intent(this, SecondActivity::class.java)
             //Para aparecer o texto da main em outra tela.
-            novaTelaIntent.putExtra("TEXTO", tvResultado.text.toString())
-            startActivity(novaTelaIntent);
+            newScreenIntent.putExtra("TEXTO", tvResultado.text.toString())
+            startActivity(newScreenIntent);
         }
     }
 }
