@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ocean_Android_Introducao_21_06_2021</string>
+    <string name="tvResultado">Voltar para Main</string>
+    <string name="btEnviar">Enviar</string>
+    <string name="btLimpar">Limpar</string>
+    <string name="etNome">Escreva o seu nome</string>
+    <string name="etSobrenome">Escreva o seu sobrenome</string>
+    <string name="btNovaTela">Nova Tela</string>
+    <string name="btVoltar">Voltar para Main</string>
+</resources>
