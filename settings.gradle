@@ -1,0 +1,2 @@
+rootProject.name = "Ocean_Android_Introduction_21_06_2021"
+include ':app'
